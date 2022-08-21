@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blockchain and DSA**
 
-- 🤝 I’m looking for help with **MERN stack projects**
+- 🤝 I’m looking for help with **MERN stack projects//DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zzethh](https://github.com/zzethh)
 
