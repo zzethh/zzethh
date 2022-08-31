@@ -24,7 +24,9 @@
 
 <!---<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzethh&show_icons=true&locale=en&layout=compact" alt="zzethh" /></p>--->
 
+<p align="left"> 
 <img align="center" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzethh&count_private=true&theme=radical" alt="zzethh" />
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzethh&theme=radical)](https://git.io/streak-stats)
+</p>
