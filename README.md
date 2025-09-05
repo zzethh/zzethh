@@ -3,15 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzethh&label=Profile%20views&color=0e75b6&style=flat" alt="zzethh" /> </p>
 
-- 🌱 I’m currently learning **Blockchain and DSA**
-
-- 🤝 I’m looking for help with **MERN stack projects//DSA**
-
 - 👨‍💻 All of my projects are available at [https://github.com/zzethh](https://github.com/zzethh)
 
 - 📫 How to reach me **zenithbe7@gmail.com**
-
-- ⚡ Fun fact **I think funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
