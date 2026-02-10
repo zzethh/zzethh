@@ -46,7 +46,7 @@ I am a passionate software engineer and AI researcher transitioning from Electri
 ### 📫 Connect with Me
 
 * **Email:** [zenithbe7@gmail.com](mailto:zenithbe7@gmail.com) | [m25csa032@iitj.ac.in](mailto:m25csa032@iitj.ac.in)
-* **LinkedIn:** [[Your LinkedIn Profile URL](https://www.linkedin.com/in/zenith-zenith-543a5422a/)]
-* **Portfolio:** [[Your Portfolio URL](https://drive.google.com/drive/folders/1A0Xjz7qVm6gF9AFecWV1dasGjYGCgDnu?usp=drive_link)]
+* **LinkedIn:** [[link](https://www.linkedin.com/in/zenith-zenith-543a5422a/)]
+* **Portfolio:** [[link](https://drive.google.com/drive/folders/1A0Xjz7qVm6gF9AFecWV1dasGjYGCgDnu?usp=drive_link)]
 
 
