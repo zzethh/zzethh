@@ -1,25 +1,52 @@
-<h1 align="center">Hi 👋, I'm Zenith</h1>
-<h3 align="center"></h3>
+# Hi there, I'm Zenith! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzethh&label=Profile%20views&color=0e75b6&style=flat" alt="zzethh" /> </p>
+### 🎓 M.Tech. in Artificial Intelligence Candidate @ IIT Jodhpur
 
-- 👨‍💻 All of my projects are available at [https://github.com/zzethh](https://github.com/zzethh)
+I am a passionate software engineer and AI researcher transitioning from Electrical Engineering to advanced Artificial Intelligence. [cite_start]Currently pursuing my **M.Tech in AI** at **IIT Jodhpur**[cite: 4, 5], I specialize in building end-to-end ML pipelines, Full Stack web applications, and decentralized Web3 solutions.
 
-- 📫 How to reach me **zenithbe7@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/maczethh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maczethh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zenith zenith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zenith zenith" height="30" width="40" /></a>
-</p>
+### 🚀 Technical Arsenal
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | [cite_start]C/C++, JavaScript, Python, HTML5, CSS3 [cite: 12, 41] |
+| **AI / ML** | [cite_start]Scikit-Learn, Streamlit, Plotly [cite: 12] |
+| **Web Dev** | [cite_start]React.js, Node.js, Express, Bootstrap, jQuery [cite: 42] |
+| **Web3** | [cite_start]Motoko, Internet Computer Blockchain [cite: 27, 36] |
+| **Databases** | [cite_start]SQL, MongoDB [cite: 43] |
+| **Tools** | [cite_start]Git, VS Code [cite: 44] |
 
-<!---<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzethh&show_icons=true&locale=en&layout=compact" alt="zzethh" /></p>--->
+---
 
+### 🛠️ Featured Projects
 
-<img align="center" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzethh&count_private=true&theme=radical" alt="zzethh" />
+#### 🤖 **Customer Churn Prediction System**
+* **Tech:** Python, Scikit-Learn, Streamlit.
+* [cite_start]Engineered an ML pipeline using an optimized Random Forest Classifier[cite: 16].
+* [cite_start]Achieved a **2-3% accuracy improvement** via hyperparameter tuning and deployed a real-time dashboard to visualize risk for 500,000+ records[cite: 16, 17].
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzethh&theme=radical)](https://git.io/streak-stats)</a>
+#### 🧤 **Virtual Reality Haptic Gloves (Capstone)**
+* **Tech:** C++, Hardware Integration.
+* [cite_start]Developed a novel VR glove system featuring custom 3D-printed modules to enhance tactile feedback and immersion[cite: 24, 25].
+* [cite_start]Engineered a multi-sensor framework integrating finger tracking with haptic actuators[cite: 26].
 
+#### 💎 **NFT Marketplace**
+* **Tech:** React, Motoko, Web3.
+* [cite_start]Led the development of a decentralized marketplace (OpenSea clone) allowing users to mint and trade artworks[cite: 31].
+* [cite_start]Implemented custom token mechanics and secure Internet Identity login[cite: 32, 36].
+
+---
+
+### 📈 Problem Solving
+* [cite_start]**Data Structures & Algorithms:** Solved **150+ questions**, demonstrating strong computational thinking[cite: 39].
+
+---
+
+### 📫 Connect with Me
+
+* **Email:** [zenithbe7@gmail.com](mailto:zenithbe7@gmail.com) | [cite_start][m25csa032@iitj.ac.in](mailto:m25csa032@iitj.ac.in) [cite: 6]
+* **LinkedIn:** [Your LinkedIn Profile URL]
+* **Portfolio:** [Your Portfolio URL]
+
+![Zenith's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
